@@ -1,3 +1,3 @@
-You can see  live project clicking on this link
-Live Demo - https://ourparlourwebsite.netlify.app/
+You can see  live demo clicking on this link
+ - https://ourparlourwebsite.netlify.app/
  
